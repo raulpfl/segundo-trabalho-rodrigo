@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Flamengo X Gremio",
+      "author": "Adriano da Farmácia"
+    },
+    {
+      "title": "Teste",
+      "author": "Teste",
+      "id": 4
+    },
+    {
+      "title": "c",
+      "author": "c",
+      "id": 6
+    }
+  ]
+}
